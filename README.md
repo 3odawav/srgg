@@ -246,6 +246,3 @@ firebase-ecommerce/
 ├─ README.md                # Documentation
 └─ ...
 ```
-#   s r g g  
- #   8 7 8 7 8 8  
- 
